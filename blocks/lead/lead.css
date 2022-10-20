@@ -1,0 +1,20 @@
+@import url(./__caption/lead__caption.css);
+@import url(./__image/lead__image.css);
+@import url(./__picture/lead__picture.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__title/lead__title.css);
+
+.lead {
+    max-width: 984px;
+    margin: 56px auto 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media screen and (max-width: 1200px) {
+    .lead {
+        max-width: 928px;
+        margin: 48px auto 0;
+    }
+}

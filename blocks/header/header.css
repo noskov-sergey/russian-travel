@@ -13,7 +13,7 @@
     align-self: center;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 760px) {
     .header {
         margin-top: 16px;
         width: calc(100% - 32px);
