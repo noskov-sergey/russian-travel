@@ -6,6 +6,7 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
+    max-width: 456px;
 }
 
 .place__website-link:hover {
