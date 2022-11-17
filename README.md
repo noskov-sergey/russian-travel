@@ -4,7 +4,7 @@
 
 Проектная работа представляет собой одностраничный веб-сайт об эффективных подходах к обучению.
 
-Ссылка на демо [https://bolshakovandrey.github.io/how-to-learn/](https://noskov-sergey.github.io/how-to-learn/)
+Ссылка на демо [https://noskov-sergey.github.io/how-to-learn/](https://noskov-sergey.github.io/how-to-learn/)
 
 Проект подготовлен в рамках обучения по специальности веб-разработчик для отработки навыков:
 
