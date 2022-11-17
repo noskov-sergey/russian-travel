@@ -2,7 +2,7 @@
 Описание
 Проектная работа представляет собой одностраничный веб-сайт об эффективных подходах к обучению.
 
-Ссылка на демо [https://bolshakovandrey.github.io/how-to-learn/](https://noskov-sergey.github.io/how-to-learn/)
+Ссылка на демо https://github.com/noskov-sergey/how-to-learn
 
 Проект подготовлен в рамках обучения по программе Яндекс.Практикум по специальности веб-разработчик для отработки навыков:
 
@@ -25,7 +25,7 @@ API Youtube.
 Как развернуть проект
 Клонируйте репозиторий:
 
-git clone [https://github.com/BolshakovAndrey/how-to-learn.git](https://github.com/noskov-sergey/how-to-learn)
+git clone git@github.com:noskov-sergey/how-to-learn.git
 
 Планируемые доработки:
 подключить другие шрифты;
